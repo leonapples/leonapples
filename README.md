@@ -6,7 +6,7 @@
 
 Skills:
 - 🧑‍💻 Languages: JavaScript, TypeScript, Python, C/C++
-- 💻 Front-End Development: React (Web/Native), React Query, React Router, Redux, HTML5, CSS3, Tailwind CSS, Vite
+- 💻 Front-End Development: React, React Query, React Router, Redux, HTML5, CSS3, Tailwind CSS, Vite
 - 🛜 Back-End Development: Node.js, Express.js, Passport, express-validator, express-session
 - 📊 Databases: MongoDB, Mongoose, Firebase Firestore, SQL (PostgreSQL)
 - 🧪 Testing & Tools: Jest, React Testing Library, ESLint, Prettier, Husky, Webpack, npm/Yarn
