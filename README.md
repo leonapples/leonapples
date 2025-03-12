@@ -12,7 +12,6 @@ Skills:
 - 🧪 Testing & Tools: Jest, React Testing Library, ESLint, Prettier, Husky, Webpack, npm/Yarn
 
 Currently studying/playing around with:
-- JSON Web Tokens
 - Docker
 - GraphQL
 - Playwright
